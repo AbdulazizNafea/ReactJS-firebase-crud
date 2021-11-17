@@ -16,6 +16,7 @@ const View = () => {
                 setUser({});
             }
         });
+        
 
     }, [id]);
 
